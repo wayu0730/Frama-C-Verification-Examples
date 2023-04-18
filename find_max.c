@@ -1,3 +1,5 @@
+
+ /*@ 
 requires \valid_read(a + (0..n-1));
 requires n > 0;
 
